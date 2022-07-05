@@ -1,0 +1,2 @@
+send "HORA "
+send "hh:mm:ss"
